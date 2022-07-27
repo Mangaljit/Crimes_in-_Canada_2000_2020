@@ -4,4 +4,4 @@ For the analysis, pandas, seaborn and matplotlib libraries available with open-s
 
 Data analysis also involved cleaning the data to bring it into a useful format facilitating the data analysis. 
 
-A presentation file summarizing the important findings of the analysis is also availaible in the repository.
+A presentation file summarizing the important findings of the analysis is also available in the repository.
